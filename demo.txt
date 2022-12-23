@@ -1,1 +1,4 @@
-My first git project
+My first git project.
+
+Git is a very popular version control solution.
+Used for software change control management.
